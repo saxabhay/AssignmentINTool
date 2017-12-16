@@ -251,7 +251,7 @@ public class Assignment extends JFrame implements ActionListener {
 
 			e.printStackTrace();
 		}
-
+        System.out.println();
 		driver.quit();
 	}
 }
